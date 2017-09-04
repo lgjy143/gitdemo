@@ -10,8 +10,15 @@ namespace CLB
         {
             return "补丁";
         }
-        public string WagesTable() {
+
+        public string WagesTable()
+        {
             return "工价表开发";
+        }
+        public void AddStyleOrder()
+        {
+            //新增工艺单
+            //1.补丁
         }
     }
 }
