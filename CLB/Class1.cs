@@ -10,6 +10,13 @@ namespace CLB
         {
             return "补丁";
         }
+
+        public string WagesTable()
+        {
+            //"工价表开发";
+            //发布
+            return null;
+        }
         public void AddStyleOrder()
         {
             //新增工艺单
