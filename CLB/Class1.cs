@@ -10,5 +10,8 @@ namespace CLB
         {
             return "补丁";
         }
+        public string WagesTable() {
+            return "工价表开发";
+        }
     }
 }
