@@ -10,5 +10,9 @@ namespace CLB
         {
             return "补丁";
         }
+        public void AddStyleOrder()
+        {
+            //新增工艺单
+        }
     }
 }
