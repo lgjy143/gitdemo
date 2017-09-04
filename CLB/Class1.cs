@@ -13,7 +13,9 @@ namespace CLB
 
         public string WagesTable()
         {
-            return "工价表开发";
+            //"工价表开发";
+            //发布
+            return null;
         }
         public void AddStyleOrder()
         {
