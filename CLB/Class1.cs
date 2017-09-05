@@ -23,5 +23,9 @@ namespace CLB
             //新增工艺单
             //1.补丁
         }
+        public void AddRegCropOne()
+        {
+            //新增个体计件
+        }
     }
 }
